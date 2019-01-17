@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{133:function(e,n,a){"use strict";a.r(n);var l=a(0),t=a.n(l);n.default=function(){return t.a.createElement("div",null,t.a.createElement("h1",null,"Hello world!"),t.a.createElement("p",null,"I swear I'll improve that, for a while, you can now more about me at my Linkedin ",t.a.createElement("a",{href:"https://linkedin.com/in/giolvani"},"profile"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b17634f1127ad1b694ca.js.map
